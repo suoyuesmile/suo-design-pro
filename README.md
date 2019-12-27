@@ -1,2 +1,29 @@
-# vant-pro
-基于 Vue2.x、Vue-Cli4、vant2.x 的移动端 H5 移动端应用（偏向商城）
+# suo-design-pro
+
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn run serve
+```
+
+### Compiles and minifies for production
+```
+yarn run build
+```
+
+### Run your tests
+```
+yarn run test
+```
+
+### Lints and fixes files
+```
+yarn run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
