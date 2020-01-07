@@ -138,13 +138,6 @@ const routes = [
   }
 ]
 
-// ;[('push', 'replace')].forEach((fn) => {
-//   const routerFn = VueRouter.prototype[fn]
-//   VueRouter.prototype[fn] = function push(location) {
-//     return routerFn.call(this, location).catch((err) => err)
-//   }
-// })
-
 Vue.use(VueRouter)
 
 const router = new VueRouter({
