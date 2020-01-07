@@ -30,7 +30,7 @@ module.exports = {
     loaderOptions: {
       sass: {
         prependData: `
-        @import "@/assets/styles/variable.scss";
+        @import "@/assets/styles/variables.scss";
         `
       },
       postcss: {
