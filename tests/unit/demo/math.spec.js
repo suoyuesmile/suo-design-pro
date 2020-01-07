@@ -1,4 +1,4 @@
-import { add, min } from 'math'
+import { add, min } from './math.js'
 describe('测试math方法', () => {
   it('测试加法', () => {
     expect(add(1, 3)).toBe(4)
