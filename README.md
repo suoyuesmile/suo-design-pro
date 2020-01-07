@@ -25,9 +25,9 @@ yarn build
 ```
 ## 教程
 #### 吃透 Vue 项目开发实践
-![](https://user-gold-cdn.xitu.io/2019/12/30/16f5676f7940d72a?w=1898&h=1206&f=jpeg&s=294508)
+![img](https://user-gold-cdn.xitu.io/2019/12/30/16f5676f7940d72a?w=1898&h=1206&f=jpeg&s=294508)
 #### 吃透移动端 H5 与 hybrid
-![](https://user-gold-cdn.xitu.io/2019/12/24/16f368720d3eb421?w=2206&h=1140&f=jpeg&s=247732)
+![img](https://user-gold-cdn.xitu.io/2019/12/24/16f368720d3eb421?w=2206&h=1140&f=jpeg&s=247732)
 #### 相关技术文章
 | 编号 | 名称                                                                                | 状态 |
 | ---- | ----------------------------------------------------------------------------------- | ---- |
@@ -37,7 +37,7 @@ yarn build
 | 0004 | [吃透 Vue 项目开发实践｜16个方面深入前端工程化开发技巧《上》](https://juejin.im/user/59a3e1de51882524401237cf/posts) | 完成 |
 | 0005 | [吃透 Vue 项目开发实践｜16个方面深入前端工程化开发技巧《下》] | 计划 |
 ## 设计规范
-![](https://user-gold-cdn.xitu.io/2020/1/6/16f7af4b9fb47e90?w=1274&h=1474&f=jpeg&s=111617)
+![img](https://user-gold-cdn.xitu.io/2020/1/6/16f7af4b9fb47e90?w=1274&h=1474&f=jpeg&s=111617)
 ## 功能
 ### 功能规划
 ### 基础组件
