@@ -91,7 +91,7 @@ export default {
     showCustomDialog() {
       this.dialogShow = true
     },
-    onSubmit() {},
+    handleSubmit() {},
     onClickLeft() {},
     onClickRight() {}
   }

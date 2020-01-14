@@ -1,21 +1,21 @@
 import axios from 'axios'
-const path = require('path')
-const fs = require('fs')
+// const path = require('path')
+// const fs = require('fs')
 
 // 判断文件是否存在的函数
-function fsExistSync(path) {
-  try {
-    fs.accessSync(path, fs.F_OK)
-  } catch (e) {
-    return false
-  }
-  return true
-}
+// function fsExistSync(path) {
+//   try {
+//     fs.accessSync(path, fs.F_OK)
+//   } catch (e) {
+//     return false
+//   }
+//   return true
+// }
 
-const baseURL = fsExistSync(path.resolve(__dirname, '../../.env.js')) ? require('../../env.js') : require('../../.env-default.js')
-
-console.log(baseURL)
+// const env = fsExistSync(path.resolve(__dirname, '../../.env.js')) ? path.resolve(__dirname, '../../../.env.js') : path.resolve('.env-default.js')
+// console.log(require(env))
 // axios 配置
+const baseURL = ''
 const defaultBaseUrl = 'http://rest.apizza.net/mock/779766c36ecc0737b94deafee204a88e'
 axios.defaults.timeout = 15000
 axios.defaults.baseURL = baseURL || defaultBaseUrl // 数据接口域名统一配置.env

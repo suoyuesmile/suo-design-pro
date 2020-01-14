@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`配置文件测试 测试配置文件是否变动 1`] = `
+Object {
+  "develop": "http://xxxx:8080",
+  "feature": "http://xxxx",
+  "mock": "http://xxxx",
+  "production": "http://xxxx",
+  "test": "http://xxxx",
+}
+`;

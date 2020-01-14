@@ -133,6 +133,12 @@ const routes = [
         path: 'layout',
         name: 'demo-layout',
         component: () => import(/* webpackChunkName: "demo" */ '../views/demo/layout.vue')
+      },
+      {
+        // 页面公共组件demo
+        path: 'test',
+        name: 'demo-test',
+        component: () => import(/* webpackChunkName: "demo" */ '../views/demo/test.vue')
       }
     ]
   }

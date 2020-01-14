@@ -1,45 +1,45 @@
-# suo-design-pro 商城
+# suo-design-pro Mall
 
-## 简介
+## Introduce
 这是一个移动端web (H5) 解决方案，以移动端商城为主题，打造一个通用常规解决方案技术模型。
 
-## 开始
+## Get-Start
 ```sh
-# 克隆项目
+# clone project
 git clone https://github.com/suoyuesmile/suo-design-pro.git
-# 安装依赖
+# install
 yarn
-# 运行开发环境
+# develop
 yarn serve
 ```
-## 测试
+## test
 ```sh
-# 运行测试用例
+# run test usage
 yarn test
 ```
 
-## 构建
+## build
 ```sh
-## 构建
+## build
 yarn build
 ```
-## 教程
-#### 吃透 Vue 项目开发实践
+## Tutotial
+#### Vue.js
 ![img](https://user-gold-cdn.xitu.io/2019/12/30/16f5676f7940d72a?w=1898&h=1206&f=jpeg&s=294508)
-#### 吃透移动端 H5 与 hybrid
+#### mobile webapp and hybrid
 ![img](https://user-gold-cdn.xitu.io/2019/12/24/16f368720d3eb421?w=2206&h=1140&f=jpeg&s=247732)
-#### 相关技术文章
-| 编号 | 名称                                                                                                                 | 状态 |
+#### technology artical
+| code | name                                                                                                                 | status |
 | ---- | -------------------------------------------------------------------------------------------------------------------- | ---- |
 | 0001 | [吃透移动端 1px]([articals/h5/0001.md](https://juejin.im/post/5df3053ce51d45583d425ada))                             | 完成 |
 | 0002 | [吃透移动端 H5 响应式布局]([articals/h5/0002.md](https://juejin.im/post/5df59139518825123e7af459))                   | 完成 |
 | 0003 | [吃透移动端 H5 与 hybrid](https://juejin.im/post/5dfadb91e51d45584006e486)                                           | 完成 |
 | 0004 | [吃透 Vue 项目开发实践｜16个方面深入前端工程化开发技巧《上》](https://juejin.im/user/59a3e1de51882524401237cf/posts) | 完成 |
 | 0005 | [吃透 Vue 项目开发实践｜16个方面深入前端工程化开发技巧《下》]                                                        | 计划 |
-## 设计规范
+## Disign Standard
 ![img](https://user-gold-cdn.xitu.io/2020/1/6/16f7af4b9fb47e90?w=1274&h=1474&f=jpeg&s=111617)
-## 功能
-### 功能规划
+## Feature
+### Feature Design
 | 编号    | 功能模块 | 名称     | 页面           | 计划 |
 | --- | -------- | -------- | -------------- | ---- |
 | 1   | 基础功能 | 登陆     | login          | 计划 |
@@ -56,7 +56,7 @@ yarn build
 | 12  | 通用业务 | 用户画像 | user-portrayal | 计划 |
 | 13  | 通用业务 | 消息中心 | message-center | 计划 |
 
-### 基础组件
+### Base Components
 |     | 类型 | 名称     | 组件名          |
 | --- | ---- | -------- | --------------- |
 | 1   | 基础 | 颜色     | app-color       |
@@ -76,7 +76,7 @@ yarn build
 | 15  | 提示 | 加载     | app-loading     |
 | 16  | 提示 | 弹窗     | app-dialog      |
 
-## 参考文档
+## Reference
 |     | 技术          | 类型          | 参考文档                                           | 一周快速上手建议时间 |
 | --- | ------------- | ------------- | -------------------------------------------------- | -------------------- |
 | 1   | vue           | mvvm 框架     | https://cn.vuejs.org/index.html                    | 3 天                 |
