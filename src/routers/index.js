@@ -139,6 +139,12 @@ const routes = [
         path: 'test',
         name: 'demo-test',
         component: () => import(/* webpackChunkName: "demo" */ '../views/demo/test.vue')
+      },
+      {
+        // 页面公共组件demo
+        path: 'lifecycle',
+        name: 'demo-lifecycle',
+        component: () => import(/* webpackChunkName: "demo" */ '../views/demo/lifecycle.vue')
       }
     ]
   }
