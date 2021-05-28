@@ -50,7 +50,7 @@
     "prettier": "^1.19.1",
     "jest": "^24.9.0",
     "postcss-pxtorem": "^4.0.1",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "pug-html-loader": "^1.1.5",
     "pug-plain-loader": "^1.0.0",
     "sass": "^1.24.0",
